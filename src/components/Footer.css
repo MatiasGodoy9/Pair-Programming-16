@@ -1,0 +1,24 @@
+.foter{
+    background-color: black;
+    height: 100px;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+  
+  .foter .icon{
+    display: flex;
+    cursor: pointer;
+  }
+  
+  .foter .icon p{
+    padding: 1em;
+  }
+  
+  .logo img{
+    height: 80px;
+  }
+  
+  
